@@ -1,4 +1,5 @@
 <?php
+
 include './inc/init.php';
 
 $type    = fRequest::get('type');
